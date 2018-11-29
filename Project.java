@@ -111,7 +111,7 @@ public class Project {
         }
         if(response != "yes" || response != "no")
         {
-            System.out.print("Invalid Response \n");
+            System.out.print("Invalid Response\n");
             continueLoop();
         }
     }
